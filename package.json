@@ -1,5 +1,5 @@
 {
-  "name": "@xmiguelps-primeira-lib",
+  "name": "@xmiguelps/primeira-lib",
   "version": "1.0.3",
   "description": "Uma lib que exibe frases aleatórias",
   "main": "dist/index.js",
