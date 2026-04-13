@@ -1,9 +1,13 @@
 {
   "name": "@xmiguelps/primeira-lib",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Uma lib que exibe frases aleatórias",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xmiguelps/xmiguelps-primeira-lib.git"
+  },
   "files": [
     "dist",
     "src"
