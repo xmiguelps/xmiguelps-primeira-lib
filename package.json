@@ -1,0 +1,18 @@
+{
+  "name": "xmiguelps-primeira-lib",
+  "version": "1.0.0",
+  "description": "Uma lib que exibe frases aleatórias",
+  "main": "dist/index.js",
+  "module": "dist/index.mjs",
+  "files": ["dist", "src"],
+  "scripts": {
+    "build": "tsup src/index.js --format cjs,esm"
+  },
+  "keywords": ["xmiguelps", "random", "phrases"],
+  "author": "XMiguelps",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.5.1",
+    "typescript": "^5.0.0"
+  }
+}
